@@ -5,7 +5,7 @@ THIS SNXX PROJECT FOR CYBERSEC WITH 3 METHODOLOGIES
 
 ### Threat Modeling (Tradisional/DSTME) - snxx 1
 
-> [!ALERT]  
+> [!NOTE]  
 > This model was created entirely by chatgpt 5 and claude for testing design. This document is still raw and has not been validated using the "STRIDE / {DFD Microsoft}" flow.
 
 <details>
