@@ -11,7 +11,7 @@ THIS SNXX PROJECT FOR CYBERSEC WITH 3 METHODOLOGIES
 <details>
   <summary>DSTME - DOCS</summary>
 
-# [DOCS](Threat-Model/logbook.md
+# [DOCS](Threat-Model/logbook.md)
 
 ```
 Threat-Model/
